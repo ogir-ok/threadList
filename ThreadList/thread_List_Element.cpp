@@ -18,4 +18,4 @@ thread_List_Element::thread_List_Element()
 //destructor of thread_List_Element class
 thread_List_Element::~thread_List_Element()
 {
-}
+} /* Some comment */
